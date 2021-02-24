@@ -1,8 +1,3 @@
-
-
-<img width="auto" height="100" src="https://pngimg.com/uploads/github/github_PNG65.png">
-
-
 # Halyson Rezende
 
 ## Olá pessoal 👋
