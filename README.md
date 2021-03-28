@@ -4,7 +4,6 @@
 Sou um entusiasta desenvolvedor de software que gosta de utilizar a tecnologia para resolver problemas.
 Sou um FullStack Developer :computer:
 
- 🤖  &nbsp; Estou trabalhando no **SóFalta.eu**
  <br/> :computer: &nbsp; Minha stack: Javascript, ReactJS, Node.js & React Native
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HalysonRezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/halyson-r-215a11ab/)](https://www.linkedin.com/in/halyson-r-215a11ab/) 
 | 
